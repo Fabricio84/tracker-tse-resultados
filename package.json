@@ -1,0 +1,16 @@
+{
+  "name": "tracker-tse-resultados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "get-votos": "node fetch-votos.js",
+    "get-abstencoes": "node fetch-abstencoes.js"
+  },
+  "keywords": [],
+  "author": "fabricio.abner@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.2.1"
+  }
+}
