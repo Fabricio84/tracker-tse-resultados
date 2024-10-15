@@ -67,7 +67,3 @@ This project showcases my ability to work with web scraping, automation, and dat
 
 ## Getting in Touch
 If you're interested in my work or would like to discuss potential opportunities, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/fabricio-souza-8623a667/) or [email](mailto:fabricio.abner@gmail.com).
-
----
-
-Esse README destaca não apenas as funcionalidades do projeto, mas também suas habilidades como desenvolvedor, tornando-o mais atrativo para recrutadores.
